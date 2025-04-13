@@ -3,7 +3,7 @@
 <div align="center">
 <p align="center">
   <img src="./images/logo.png" alt="Cursor Pro Logo" width="200" style="border-radius: 6px;"/>
-</p>
+</p>你的大家记得
 
 <p align="center">
 
